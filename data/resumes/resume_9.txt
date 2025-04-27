@@ -1,0 +1,45 @@
+Curriculum Vitae
+Personal Information
+Name: Kenta HayashiDate of Birth: September 12, 1990Nationality: JapaneseAddress: 1-6-10 Kanda, Chiyoda-ku, Tokyo 101-0047, JapanPhone Number: +81-90-6789-0123Email: kenta.hayashi@example.comLinkedIn: linkedin.com/in/kenta-hayashi  
+
+Education
+March 2013Hitotsubashi University, Tokyo, JapanBachelor of Commerce, Major in Business Administration  
+
+Work Experience
+April 2013 - June 2016Nippon Logistics Co., Ltd., Tokyo, JapanLogistics Coordinator  
+
+Managed inventory and coordinated shipments for automotive parts, reducing delivery delays by 15%  
+Analyzed supply chain data using Excel to identify bottlenecks and propose cost-saving measures  
+Liaised with suppliers and clients to ensure timely fulfillment of orders  
+Supported implementation of a warehouse management system, improving stock accuracy by 20%
+
+July 2016 - PresentGlobal Trade Solutions, Tokyo, JapanSupply Chain Analyst  
+
+Conducted data-driven analysis of supply chain operations using Tableau and SQL, optimizing logistics costs by 12% annually  
+Developed forecasting models to predict demand, reducing excess inventory by 18% for key clients  
+Led cross-functional projects to streamline procurement processes, shortening lead times by 10 days  
+Presented actionable insights to senior management, influencing strategic sourcing decisions
+
+
+Certifications
+
+2015: TOEIC 860 (TOEIC Score: 860)  
+2017: Certified Supply Chain Professional (CSCP), APICS  
+2019: Lean Six Sigma Green Belt
+
+
+Skills
+
+Supply Chain Management: Demand Forecasting, Inventory Optimization, Procurement  
+Data Analysis: Excel (Pivot Tables, VBA), Tableau, SQL, SAP  
+Project Coordination: Process Improvement, Stakeholder Management, Lean Methodologies  
+Languages: Japanese (Native), English (Business Level)
+
+
+Professional Summary
+I am a dedicated supply chain analyst with over 10 years of experience in logistics and data-driven process optimization. My expertise lies in analyzing supply chain data, forecasting demand, and leading projects to enhance operational efficiency. I excel at collaborating with cross-functional teams and delivering insights that drive cost savings and strategic growth.
+
+Career Objective
+I seek to join a forward-thinking organization where I can leverage my analytical skills and supply chain expertise to optimize operations and contribute to business success. I am eager to apply data-driven strategies and collaborative approaches in a dynamic, global environment.
+
+Date of Creation: April 24, 2025Note: All information is accurate. References available upon request.

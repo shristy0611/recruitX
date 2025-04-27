@@ -1,0 +1,55 @@
+履歴書 (Resume)
+基本情報 (Personal Information)
+氏名 (Name): 田中 翔太 (Tanaka Shota)
+
+生年月日 (Date of Birth): 1995年3月10日 (March 10, 1995)
+
+住所 (Address): 〒108-0075 東京都港区港南3-4-12 (3-4-12 Konan, Minato-ku, Tokyo 108-0075)
+
+電話番号 (Phone Number): 080-1234-5678
+
+メールアドレス (Email): shota.tanaka@example.com
+
+学歴 (Education)
+2017年3月
+
+慶應義塾大学 経済学部 経済学科 卒業 (Bachelor of Economics, Keio University)
+
+職歴 (Work Experience)
+2017年4月 - 2020年3月
+
+株式会社商事ジャパン (Japan Trading Co., Ltd.)
+
+営業職 (Sales Representative)
+
+中小企業向けにオフィス機器の提案営業を行い、年間売上目標を3年連続達成
+顧客ニーズをヒアリングし、カスタマイズしたソリューションを提案
+展示会やセミナーでの製品プレゼンテーションを担当
+顧客データベースの管理およびフォローアップ対応
+2020年4月 - 現在
+
+株式会社テクノトレード (Techno Trade Co., Ltd.)
+
+営業職 (Senior Sales Representative)
+
+大手企業向けにITソリューション（クラウドサービス、セキュリティソフト）の営業を担当
+新規顧客開拓を行い、契約件数を前年比20%増加
+営業チーム（5名）のリーダーとして、目標設定と進捗管理を実施
+顧客満足度調査を基にした営業プロセスの改善提案
+資格 (Certifications)
+2016年10月: 日商簿記検定2級 (Bookkeeping Level 2, Japan Chamber of Commerce)
+2018年6月: TOEIC 820点 (TOEIC Score: 820)
+2021年3月: 普通自動車第一種運転免許 (Japanese Driver’s License, Class 1)
+スキル (Skills)
+営業スキル: 顧客折衝、プレゼンテーション、契約交渉
+ITスキル: Microsoft Office（Excel, PowerPoint, Word）、CRMツール（Salesforce）
+言語: 日本語（ネイティブ）、英語（ビジネス会話レベル）
+自己PR (Self-Introduction)
+営業職として7年間、顧客の課題解決を第一に考え、信頼関係を築いてきました。目標達成に向けて粘り強く取り組み、チームリーダーとしてメンバーのモチベーション向上にも尽力しています。貴社の製品やサービスを通じて、クライアントのビジネス成長に貢献したいと考えています。
+
+志望動機 (Motivation)
+貴社の顧客志向の姿勢と、革新的な製品ラインナップに魅力を感じています。これまでの営業経験を活かし、貴社の市場拡大と顧客満足度の向上に貢献したいと考えています。また、貴社のチームワークを重視する環境で、さらなる成長を目指したいです。
+
+作成日 (Date of Creation): 2025年4月24日
+
+備考 (Notes): 本履歴書の内容は全て事実に基づいています。面接の機会を頂ければ幸いです。

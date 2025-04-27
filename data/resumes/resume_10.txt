@@ -1,0 +1,45 @@
+Curriculum Vitae
+Personal Information
+Name: Aiko MoriDate of Birth: February 8, 1992Nationality: JapaneseAddress: 3-9-5 Akasaka, Minato-ku, Tokyo 107-0052, JapanPhone Number: +81-80-3456-7890Email: aiko.mori@example.comLinkedIn: linkedin.com/in/aiko-mori  
+
+Education
+March 2014Kyoto University, Kyoto, JapanBachelor of Science in Information Systems  
+
+Work Experience
+April 2014 - September 2017Nihon Data Systems, Tokyo, JapanData Analyst  
+
+Developed dashboards using Power BI to track sales performance, improving reporting efficiency by 25%  
+Conducted data cleaning and analysis with SQL and Excel, supporting strategic marketing campaigns  
+Collaborated with sales teams to identify customer trends, contributing to a 10% increase in retention  
+Automated repetitive reporting tasks using Python scripts, saving 15 hours weekly
+
+October 2017 - PresentAsia Insights Corp., Tokyo, JapanBusiness Intelligence Analyst  
+
+Designed and maintained enterprise-wide BI solutions using Tableau and SQL, enabling real-time decision-making  
+Built predictive models with Python to forecast market trends, achieving 85% accuracy for client portfolios  
+Led a team of 3 analysts to standardize data pipelines, reducing data processing time by 30%  
+Presented actionable insights to C-level executives, influencing budget allocation for key projects
+
+
+Certifications
+
+2016: TOEIC 900 (TOEIC Score: 900)  
+2018: Microsoft Certified: Data Analyst Associate  
+2020: Tableau Desktop Specialist
+
+
+Skills
+
+Business Intelligence: Data Visualization, Dashboard Development, Predictive Modeling  
+Technical Tools: Tableau, Power BI, SQL, Python (Pandas, NumPy), Excel (Advanced)  
+Data Management: ETL Processes, Data Warehousing, Database Querying  
+Languages: Japanese (Native), English (Fluent)
+
+
+Professional Summary
+I am a skilled business intelligence analyst with over 10 years of experience in transforming data into actionable insights for strategic decision-making. My expertise includes developing BI solutions, predictive modeling, and leading data-driven projects. I thrive in collaborative environments, delivering high-impact reports and dashboards that drive business growth.
+
+Career Objective
+I aim to join an innovative organization where I can apply my business intelligence expertise to enhance data-driven strategies and support organizational goals. I am passionate about leveraging advanced analytics and visualization tools to deliver value in a dynamic, global setting.
+
+Date of Creation: April 24, 2025Note: All information is accurate. References available upon request.

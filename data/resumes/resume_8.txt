@@ -1,0 +1,45 @@
+履歴書 (Resume)
+基本情報 (Personal Information)
+氏名 (Name): 山本 亮太 (Yamamoto Ryota)生年月日 (Date of Birth): 1991年4月5日 (April 5, 1991)住所 (Address): 〒105-0004 東京都港区新橋2-15-8 (2-15-8 Shimbashi, Minato-ku, Tokyo 105-0004)電話番号 (Phone Number): 080-5678-9012メールアドレス (Email): ryota.yamamoto@example.com  
+
+学歴 (Education)
+2014年3月東京大学 経済学部 経済学科 卒業 (Bachelor of Economics, University of Tokyo)  
+
+職歴 (Work Experience)
+2014年4月 - 2017年3株式会社みずほ銀行 (Mizuho Bank, Ltd.)ファイナンシャルアドバイザー (Financial Advisor)  
+
+個人および中小企業向けに資産運用プランを提案、顧客ポートフォリオの運用実績を平均10%向上  
+財務データの分析と市場動向の調査を行い、投資戦略の策定を支援  
+Excelを用いた財務モデル作成およびレポート作成を担当  
+顧客向けセミナーで資産運用に関するプレゼンテーションを実施
+
+2017年4月 - 現在株式会社ファイナンスソリューションズ (Finance Solutions Co., Ltd.)ファイナンシャルアナリスト (Financial Analyst)  
+
+企業向け財務分析を行い、M&Aや資金調達戦略の提案を主導、年間5件の案件を成功  
+BloombergおよびTableauを用いた市場データ分析と業績予測モデルの構築  
+経営層向けに月次財務レポートを作成、投資判断の精度を20%向上  
+チーム（4名）のデータ分析業務を統括し、分析プロセスの自動化を推進
+
+
+資格 (Certifications)
+
+2013年10月: 日商簿記検定2級 (Bookkeeping Level 2, Japan Chamber of Commerce)  
+2015年6月: TOEIC 880点 (TOEIC Score: 880)  
+2018年3月: 証券アナリスト資格（日本証券アナリスト協会） (Certified Securities Analyst, Japan Securities Analysts Association)
+
+
+スキル (Skills)
+
+財務分析: 財務モデル構築、市場分析、M&A評価  
+データ分析ツール: Excel（マクロ、ピボットテーブル）、Tableau、Bloomberg  
+ITスキル: Python（基礎レベル、データ処理用）、SQL（データ抽出）  
+言語: 日本語（ネイティブ）、英語（ビジネスレベル）
+
+
+自己PR (Self-Introduction)
+ファイナンシャルアナリストとして、データに基づく財務戦略の立案と実行に7年間取り組んできました。市場分析や財務モデル構築を通じて、企業の成長と投資リターンの最大化に貢献しています。チームの分析業務をリードし、効率化と精度向上を実現してきました。貴社の財務戦略を強化し、データ駆動型の意思決定を支援したいと考えています。
+
+志望動機 (Motivation)
+貴社のデータとテクノロジーを活用した先進的な財務ソリューションに強く惹かれています。これまでの財務分析とデータ活用の経験を活かし、貴社のクライアントのビジネス価値向上に貢献したいです。また、貴社のグローバルな視点を取り入れた環境で、自身の専門性をさらに磨きたいと考えています。
+
+作成日 (Date of Creation): 2025年4月24日備考 (Notes): 本履歴書の内容は全て事実に基づいています。面接の機会を頂ければ幸いです。

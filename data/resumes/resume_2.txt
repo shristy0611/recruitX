@@ -1,0 +1,48 @@
+Curriculum Vitae
+Personal Information
+Name: Hiroshi TanakaDate of Birth: June 10, 1992Address: 2-3-4 Shibuya, Shibuya-ku, Tokyo 150-0002, JapanPhone Number: +81-80-9876-5432Email: hiroshi.tanaka@example.comLinkedIn: linkedin.com/in/hiroshi-tanaka  
+
+Education
+March 2015Keio University, Faculty of Science and TechnologyBachelor of Science in Computer Science  
+March 2017Keio University, Graduate School of Science and TechnologyMaster of Science in Information and Computer Science  
+
+Work Experience
+April 2017 - September 2020TechWave Corporation, Tokyo, JapanJunior Software Developer  
+
+Developed and maintained web applications using JavaScript, React, and Node.js  
+Collaborated with cross-functional teams to design RESTful APIs for e-commerce platforms  
+Implemented automated testing frameworks using Jest and Cypress, improving code quality by 25%  
+Contributed to database optimization using PostgreSQL, reducing query response time by 30%
+
+October 2020 - PresentNexlify Solutions, Tokyo, JapanSenior IT Developer  
+
+Led a team of 5 developers in building a scalable microservices architecture using Python and Docker  
+Designed and deployed cloud-based applications on AWS, ensuring 99.9% uptime  
+Integrated CI/CD pipelines with GitHub Actions, reducing deployment time by 40%  
+Mentored junior developers, conducting code reviews and technical workshops
+
+
+Certifications
+
+2018: AWS Certified Developer – Associate  
+2019: Professional Scrum Master I (PSM I)  
+2021: Oracle Certified Professional, Java SE 11 Developer
+
+
+Skills
+
+Programming Languages: Python, JavaScript, Java, TypeScript  
+Frameworks & Libraries: React, Node.js, Django, Spring Boot  
+Databases: PostgreSQL, MongoDB, MySQL  
+Cloud & DevOps: AWS, Docker, Kubernetes, GitHub Actions, Jenkins  
+Tools: Git, Jira, Webpack, VS Code  
+Languages: Japanese (Native), English (Fluent, TOEFL iBT 105)
+
+
+Professional Summary
+I am a dedicated IT developer with over 8 years of experience in designing, developing, and deploying robust web and cloud-based applications. My expertise spans full-stack development, with a strong focus on scalable architectures, cloud technologies, and agile methodologies. I excel in leading teams, optimizing workflows, and delivering high-quality software solutions that drive business success.
+
+Career Objective
+I am eager to join a forward-thinking organization where I can leverage my technical expertise in software development and cloud technologies to contribute to innovative projects. I aim to drive technological advancements while fostering collaboration and mentorship within dynamic teams.
+
+Date of Creation: April 24, 2025Note: All information provided is accurate. I am available for interviews at your earliest convenience.

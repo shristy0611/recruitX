@@ -1,0 +1,5 @@
+# Ignore training artifacts and virtual environment
+training/
+node_modules/
+.next/
+.env

@@ -1,0 +1,650 @@
+{
+  "metadata": {
+    "created_date": "2025-04-24",
+    "version": "1.0",
+    "description": "Ground truth dataset for recruitment AI matching system validation"
+  },
+  "matching_criteria": {
+    "technical_skills": {
+      "weight": 0.25,
+      "description": "Alignment between technical skills required in the job description and demonstrated in the resume"
+    },
+    "experience_level": {
+      "weight": 0.25,
+      "description": "Alignment between years and type of experience required and demonstrated"
+    },
+    "education": {
+      "weight": 0.15,
+      "description": "Alignment between educational requirements and candidate's qualifications"
+    },
+    "industry_knowledge": {
+      "weight": 0.15,
+      "description": "Familiarity with the specific industry or domain mentioned in the job description"
+    },
+    "language_proficiency": {
+      "weight": 0.05,
+      "description": "Alignment between language requirements and candidate's proficiency"
+    },
+    "certification": {
+      "weight": 0.05,
+      "description": "Possession of required or preferred certifications"
+    },
+    "soft_skills": {
+      "weight": 0.05,
+      "description": "Alignment between soft skills/values mentioned in job description and resume"
+    },
+    "leadership_experience": {
+      "weight": 0.05,
+      "description": "Alignment between leadership requirements and demonstrated experience"
+    }
+  },
+  "match_categories": {
+    "strong_match": {"min_score": 80, "max_score": 100, "description": "Candidate meets or exceeds all key requirements"},
+    "good_match": {"min_score": 60, "max_score": 79, "description": "Candidate meets most key requirements"},
+    "potential_match": {"min_score": 40, "max_score": 59, "description": "Candidate meets some requirements but has gaps"},
+    "weak_match": {"min_score": 20, "max_score": 39, "description": "Candidate meets few requirements"},
+    "no_match": {"min_score": 0, "max_score": 19, "description": "Candidate does not meet the basic requirements"}
+  },
+  "matches": [
+    {
+      "job_id": "job_1",
+      "job_title": "データサイエンティスト (Data Scientist)",
+      "company": "株式会社フューチャーテック",
+      "resume_id": "resume_1",
+      "candidate_name": "山田 太郎 (Yamada Tarou)",
+      "overall_match_score": 92,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 95,
+        "experience_level": 95,
+        "education": 90,
+        "industry_knowledge": 90,
+        "language_proficiency": 90,
+        "certification": 85,
+        "soft_skills": 85,
+        "leadership_experience": 80
+      },
+      "match_explanation": "Yamada Tarou is an excellent match for this data scientist position. His technical skills in Python, data analysis tools, and machine learning frameworks directly align with the job requirements. His 8+ years of experience far exceeds the 2+ years required, and his Master's degree in Information Science provides a strong educational foundation. He has demonstrated experience with the specific tools mentioned in the job description (Pandas, TensorFlow, etc.) and has relevant certifications. His language skills meet the requirements, and he has leadership experience mentoring junior data scientists."
+    },
+    {
+      "job_id": "job_1",
+      "job_title": "データサイエンティスト (Data Scientist)",
+      "company": "株式会社フューチャーテック",
+      "resume_id": "resume_2",
+      "candidate_name": "Hiroshi Tanaka",
+      "overall_match_score": 65,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 60,
+        "experience_level": 60,
+        "education": 85,
+        "industry_knowledge": 55,
+        "language_proficiency": 90,
+        "certification": 70,
+        "soft_skills": 75,
+        "leadership_experience": 75
+      },
+      "match_explanation": "Hiroshi Tanaka has strong technical skills but in web development rather than data science. While he has programming experience and cloud knowledge that could transfer, he lacks specific experience with data analysis tools and machine learning frameworks required for the position. His education and language skills are excellent matches, and his leadership experience is relevant. He could be considered for the role but would need to demonstrate ability to transition to data science."
+    },
+    {
+      "job_id": "job_1",
+      "job_title": "データサイエンティスト (Data Scientist)",
+      "company": "株式会社フューチャーテック",
+      "resume_id": "resume_10",
+      "candidate_name": "Aiko Mori",
+      "overall_match_score": 85,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 85,
+        "experience_level": 85,
+        "education": 80,
+        "industry_knowledge": 85,
+        "language_proficiency": 95,
+        "certification": 85,
+        "soft_skills": 80,
+        "leadership_experience": 80
+      },
+      "match_explanation": "Aiko Mori is a strong match for the data scientist position. Her technical skills in data analysis, visualization, and Python align well with the job requirements. Her experience in predictive modeling and business intelligence is highly relevant, and she exceeds the required experience level. Her certifications in data analysis are directly applicable, and her language skills exceed requirements. While her background is more in business intelligence than pure data science, the skills are highly transferable."
+    },
+    {
+      "job_id": "job_2",
+      "job_title": "ソフトウェアエンジニア (Software Engineer)",
+      "company": "株式会社テックイノベーション",
+      "resume_id": "resume_2",
+      "candidate_name": "Hiroshi Tanaka",
+      "overall_match_score": 90,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 95,
+        "experience_level": 90,
+        "education": 90,
+        "industry_knowledge": 85,
+        "language_proficiency": 90,
+        "certification": 85,
+        "soft_skills": 85,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Hiroshi Tanaka is an excellent match for this software engineer position. His technical skills in JavaScript, Python, and cloud technologies directly align with the job requirements. His experience with React, Node.js, and microservices architecture is particularly relevant. His 8 years of experience exceeds the 3+ years required, and his Master's degree in Information and Computer Science provides a strong educational foundation. His language skills exceed the requirements, and he has demonstrated leadership experience and mentorship abilities."
+    },
+    {
+      "job_id": "job_2",
+      "job_title": "ソフトウェアエンジニア (Software Engineer)",
+      "company": "株式会社テックイノベーション",
+      "resume_id": "resume_4",
+      "candidate_name": "佐藤 健 (Sato Ken)",
+      "overall_match_score": 85,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 85,
+        "experience_level": 90,
+        "education": 85,
+        "industry_knowledge": 85,
+        "language_proficiency": 90,
+        "certification": 90,
+        "soft_skills": 80,
+        "leadership_experience": 90
+      },
+      "match_explanation": "Sato Ken is a strong match for the software engineer position, though his experience has evolved more toward project management. His technical skills in Java and Python align with the job requirements, and his experience with AWS and cloud technologies is directly relevant. His 13 years of experience far exceeds the requirements, and his certifications in AWS, project management, and Scrum are valuable assets. His language skills meet the requirements, and his leadership experience is exceptional."
+    },
+    {
+      "job_id": "job_2",
+      "job_title": "ソフトウェアエンジニア (Software Engineer)",
+      "company": "株式会社テックイノベーション",
+      "resume_id": "resume_7",
+      "candidate_name": "中村 優香 (Nakamura Yuka)",
+      "overall_match_score": 35,
+      "match_category": "Weak Match",
+      "criteria_scores": {
+        "technical_skills": 30,
+        "experience_level": 40,
+        "education": 40,
+        "industry_knowledge": 30,
+        "language_proficiency": 85,
+        "certification": 30,
+        "soft_skills": 70,
+        "leadership_experience": 60
+      },
+      "match_explanation": "Nakamura Yuka is not a good match for the software engineer position. Her background is in human resources rather than software development, and she lacks the technical skills required for the role. While she has strong soft skills and leadership experience, these are not in a technical context. Her education is not in a relevant field, and she does not have the programming experience or knowledge of cloud technologies required for the position."
+    },
+    {
+      "job_id": "job_3",
+      "job_title": "ビジネスインテリジェンスアナリスト (Business Intelligence Analyst)",
+      "company": "株式会社データインサイト",
+      "resume_id": "resume_1",
+      "candidate_name": "山田 太郎 (Yamada Tarou)",
+      "overall_match_score": 85,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 90,
+        "experience_level": 85,
+        "education": 90,
+        "industry_knowledge": 85,
+        "language_proficiency": 90,
+        "certification": 80,
+        "soft_skills": 80,
+        "leadership_experience": 75
+      },
+      "match_explanation": "Yamada Tarou is a strong match for the BI Analyst position. His technical skills in data analysis, visualization tools, and SQL directly align with the job requirements. His experience with Tableau and data visualization is particularly relevant. His 8+ years of experience exceeds the 5+ years required, and his Master's degree provides a strong educational foundation. His language skills meet the requirements, and he has demonstrated experience with cloud platforms mentioned in the job description."
+    },
+    {
+      "job_id": "job_3",
+      "job_title": "ビジネスインテリジェンスアナリスト (Business Intelligence Analyst)",
+      "company": "株式会社データインサイト",
+      "resume_id": "resume_8",
+      "candidate_name": "山本 亮太 (Yamamoto Ryota)",
+      "overall_match_score": 70,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 75,
+        "experience_level": 75,
+        "education": 85,
+        "industry_knowledge": 70,
+        "language_proficiency": 90,
+        "certification": 75,
+        "soft_skills": 75,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Yamamoto Ryota is a good match for the BI Analyst position, with his background in financial analysis providing transferable skills. His experience with data visualization tools like Tableau aligns with the job requirements, and his analytical skills are strong. His 11 years of experience exceeds the requirements, and his education in Economics from Tokyo University is relevant. His language skills meet the requirements, and he has demonstrated experience with data analysis and reporting to management."
+    },
+    {
+      "job_id": "job_3",
+      "job_title": "ビジネスインテリジェンスアナリスト (Business Intelligence Analyst)",
+      "company": "株式会社データインサイト",
+      "resume_id": "resume_10",
+      "candidate_name": "Aiko Mori",
+      "overall_match_score": 95,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 95,
+        "experience_level": 95,
+        "education": 85,
+        "industry_knowledge": 95,
+        "language_proficiency": 95,
+        "certification": 95,
+        "soft_skills": 90,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Aiko Mori is an excellent match for the BI Analyst position. Her technical skills in Tableau, Power BI, SQL, and Python directly align with the job requirements. Her experience in building dashboards, predictive models, and presenting to executives is exactly what the role requires. Her 10+ years of experience exceeds the 5+ years required, and her certifications in data analysis and Tableau are directly relevant. Her language skills exceed the requirements, and she has demonstrated leadership experience with a team of analysts."
+    },
+    {
+      "job_id": "job_4",
+      "job_title": "Senior Customer Success Manager",
+      "company": "SkyTech Solutions Ltd.",
+      "resume_id": "resume_3",
+      "candidate_name": "Emma Claire Dubois",
+      "overall_match_score": 85,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 80,
+        "experience_level": 90,
+        "education": 85,
+        "industry_knowledge": 85,
+        "language_proficiency": 90,
+        "certification": 85,
+        "soft_skills": 90,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Emma Dubois is a strong match for the Senior Customer Success Manager position. Her experience in marketing and client relationship management is highly relevant to customer success. Her skills with CRM platforms and data analytics tools align well with the job requirements. Her 12+ years of experience exceeds the 6+ years required, and her language skills are excellent for a role requiring both Japanese and English. Her leadership experience and client-facing skills are particularly valuable for this position."
+    },
+    {
+      "job_id": "job_4",
+      "job_title": "Senior Customer Success Manager",
+      "company": "SkyTech Solutions Ltd.",
+      "resume_id": "resume_6",
+      "candidate_name": "田中 翔太 (Tanaka Shota)",
+      "overall_match_score": 65,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 65,
+        "experience_level": 70,
+        "education": 70,
+        "industry_knowledge": 70,
+        "language_proficiency": 75,
+        "certification": 50,
+        "soft_skills": 80,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Tanaka Shota is a reasonably good match for the Customer Success Manager position. His experience in sales and client relationship management is relevant to customer success, and his familiarity with Salesforce is valuable. His 7 years of experience meets the requirements, and his language skills are adequate for the role. While he lacks specific experience in the SaaS industry, his client-facing skills and team leadership experience are transferable. He would need to develop more technical knowledge of IT systems."
+    },
+    {
+      "job_id": "job_4",
+      "job_title": "Senior Customer Success Manager",
+      "company": "SkyTech Solutions Ltd.",
+      "resume_id": "resume_7",
+      "candidate_name": "中村 優香 (Nakamura Yuka)",
+      "overall_match_score": 60,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 55,
+        "experience_level": 65,
+        "education": 65,
+        "industry_knowledge": 55,
+        "language_proficiency": 85,
+        "certification": 60,
+        "soft_skills": 85,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Nakamura Yuka is a moderate match for the Customer Success Manager position. Her background in HR provides some transferable skills in client relationship management and employee development. Her experience with HR systems and data analysis tools has some relevance to the technical requirements. Her 10 years of experience exceeds the requirements, and her language skills meet the needs of the role. While she would need to transition from HR to customer success, her people skills and communication abilities would be valuable assets."
+    },
+    {
+      "job_id": "job_5",
+      "job_title": "Technical Sales Manager",
+      "company": "Nexus Solutions Inc.",
+      "resume_id": "resume_6",
+      "candidate_name": "田中 翔太 (Tanaka Shota)",
+      "overall_match_score": 85,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 75,
+        "experience_level": 85,
+        "education": 75,
+        "industry_knowledge": 85,
+        "language_proficiency": 80,
+        "certification": 70,
+        "soft_skills": 90,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Tanaka Shota is an excellent match for the Technical Sales Manager position. His experience in B2B sales, particularly in IT solutions, directly aligns with the job requirements. His familiarity with CRM tools like Salesforce is particularly relevant. His 7 years of sales experience exceeds the 5+ years required, and his team leadership experience is valuable for managing a sales team. His language skills meet the requirements, and his client relationship skills and negotiation abilities are strong assets for this role."
+    },
+    {
+      "job_id": "job_5",
+      "job_title": "Technical Sales Manager",
+      "company": "Nexus Solutions Inc.",
+      "resume_id": "resume_8",
+      "candidate_name": "山本 亮太 (Yamamoto Ryota)",
+      "overall_match_score": 60,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 65,
+        "experience_level": 70,
+        "education": 80,
+        "industry_knowledge": 60,
+        "language_proficiency": 90,
+        "certification": 75,
+        "soft_skills": 75,
+        "leadership_experience": 65
+      },
+      "match_explanation": "Yamamoto Ryota is a moderate match for the Technical Sales Manager position. While his background is in finance rather than sales, his client-facing experience and analytical skills provide some transferable value. His familiarity with financial analysis could be useful for demonstrating ROI to clients. His language skills exceed the requirements, and his education in Economics is relevant for understanding business value propositions. He would need to develop more direct sales experience and technical knowledge of IT solutions."
+    },
+    {
+      "job_id": "job_5",
+      "job_title": "Technical Sales Manager",
+      "company": "Nexus Solutions Inc.",
+      "resume_id": "resume_9",
+      "candidate_name": "Kenta Hayashi",
+      "overall_match_score": 65,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 70,
+        "experience_level": 75,
+        "education": 75,
+        "industry_knowledge": 65,
+        "language_proficiency": 85,
+        "certification": 70,
+        "soft_skills": 80,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Kenta Hayashi is a reasonably good match for the Technical Sales Manager position. His background in supply chain analysis provides transferable skills in data analysis and client communication. His experience presenting to management and leading cross-functional projects is relevant to sales leadership. His language skills exceed the requirements, and his analytical abilities would be valuable for understanding client needs and demonstrating solution value. He would need to develop more direct sales experience and technical knowledge of IT solutions."
+    },
+    {
+      "job_id": "job_6",
+      "job_title": "サステナビリティ・プロジェクトマネージャー (Sustainability Project Manager)",
+      "company": "株式会社グリーンビジョン",
+      "resume_id": "resume_5",
+      "candidate_name": "Liam Patrick O'Connor",
+      "overall_match_score": 90,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 90,
+        "experience_level": 90,
+        "education": 90,
+        "industry_knowledge": 95,
+        "language_proficiency": 75,
+        "certification": 90,
+        "soft_skills": 85,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Liam O'Connor is an excellent match for the Sustainability Project Manager position. His technical skills in environmental impact assessments and GIS tools directly align with the job requirements. His experience in environmental consulting and sustainability projects is exactly what the role requires. His 10+ years of experience exceeds the 7+ years required, and his Master's degree in Environmental Management provides a strong educational foundation. His ISO 14001 certification is particularly relevant. His Japanese language skills are below the required level (N3 vs. N2), which is the main area for improvement."
+    },
+    {
+      "job_id": "job_6",
+      "job_title": "サステナビリティ・プロジェクトマネージャー (Sustainability Project Manager)",
+      "company": "株式会社グリーンビジョン",
+      "resume_id": "resume_4",
+      "candidate_name": "佐藤 健 (Sato Ken)",
+      "overall_match_score": 60,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 60,
+        "experience_level": 70,
+        "education": 70,
+        "industry_knowledge": 50,
+        "language_proficiency": 90,
+        "certification": 75,
+        "soft_skills": 80,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Sato Ken is a moderate match for the Sustainability Project Manager position. While his project management experience is strong and transferable, he lacks specific experience in environmental impact assessments and sustainability projects. His PMP certification is valuable for the project management aspects of the role, and his language skills meet the requirements. His leadership experience with large teams is a strong asset. He would need to develop expertise in environmental regulations and GIS tools to fully meet the job requirements."
+    },
+    {
+      "job_id": "job_6",
+      "job_title": "サステナビリティ・プロジェクトマネージャー (Sustainability Project Manager)",
+      "company": "株式会社グリーンビジョン",
+      "resume_id": "resume_9",
+      "candidate_name": "Kenta Hayashi",
+      "overall_match_score": 55,
+      "match_category": "Potential Match",
+      "criteria_scores": {
+        "technical_skills": 60,
+        "experience_level": 65,
+        "education": 60,
+        "industry_knowledge": 55,
+        "language_proficiency": 85,
+        "certification": 65,
+        "soft_skills": 75,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Kenta Hayashi is a potential match for the Sustainability Project Manager position. His background in supply chain analysis provides some transferable skills in data analysis and process optimization that could be applied to sustainability projects. His experience with forecasting and stakeholder management is relevant to project management. His language skills meet the requirements, but he lacks specific experience in environmental impact assessments and GIS tools. He would need significant development in environmental regulations and sustainability practices to fully meet the job requirements."
+    },
+    {
+      "job_id": "job_7",
+      "job_title": "ITプロジェクトリーダー (IT Project Leader)",
+      "company": "株式会社フューチャーテック",
+      "resume_id": "resume_2",
+      "candidate_name": "Hiroshi Tanaka",
+      "overall_match_score": 85,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 90,
+        "experience_level": 85,
+        "education": 90,
+        "industry_knowledge": 85,
+        "language_proficiency": 90,
+        "certification": 80,
+        "soft_skills": 85,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Hiroshi Tanaka is an excellent match for the IT Project Leader position. His technical skills in Python, Java, and cloud technologies directly align with the job requirements. His experience with AWS and development team leadership is particularly relevant. His 8 years of experience exceeds the 3+ years required, and his Master's degree in Information and Computer Science provides a strong educational foundation. His language skills exceed the requirements, and he has demonstrated leadership experience and mentorship abilities that would be valuable for leading a project team."
+    },
+    {
+      "job_id": "job_7",
+      "job_title": "ITプロジェクトリーダー (IT Project Leader)",
+      "company": "株式会社フューチャーテック",
+      "resume_id": "resume_4",
+      "candidate_name": "佐藤 健 (Sato Ken)",
+      "overall_match_score": 95,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 90,
+        "experience_level": 95,
+        "education": 90,
+        "industry_knowledge": 95,
+        "language_proficiency": 90,
+        "certification": 95,
+        "soft_skills": 90,
+        "leadership_experience": 95
+      },
+      "match_explanation": "Sato Ken is an exceptional match for the IT Project Leader position. His technical skills in Java and Python align perfectly with the job requirements, and his experience with AWS and cloud technologies is directly relevant. His 13 years of experience far exceeds the 3+ years required, and his certifications in AWS, project management, and Scrum are extremely valuable assets. His language skills exceed the requirements, and his extensive leadership experience with development teams of various sizes makes him ideally suited for this role."
+    },
+    {
+      "job_id": "job_7",
+      "job_title": "ITプロジェクトリーダー (IT Project Leader)",
+      "company": "株式会社フューチャーテック",
+      "resume_id": "resume_7",
+      "candidate_name": "中村 優香 (Nakamura Yuka)",
+      "overall_match_score": 40,
+      "match_category": "Potential Match",
+      "criteria_scores": {
+        "technical_skills": 40,
+        "experience_level": 50,
+        "education": 50,
+        "industry_knowledge": 35,
+        "language_proficiency": 85,
+        "certification": 40,
+        "soft_skills": 75,
+        "leadership_experience": 65
+      },
+      "match_explanation": "Nakamura Yuka is a weak match for the IT Project Leader position. While she has strong soft skills and some project management experience in HR, she lacks the technical background and IT expertise required for the role. Her experience with HR systems provides minimal transferable technical knowledge. Her language skills meet the requirements, but she would need significant development in programming languages, cloud technologies, and IT project management methodologies to be effective in this position."
+    },
+    {
+      "job_id": "job_8",
+      "job_title": "Digital Marketing Director",
+      "company": "Horizon Global Media",
+      "resume_id": "resume_3",
+      "candidate_name": "Emma Claire Dubois",
+      "overall_match_score": 95,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 95,
+        "experience_level": 95,
+        "education": 90,
+        "industry_knowledge": 95,
+        "language_proficiency": 95,
+        "certification": 95,
+        "soft_skills": 95,
+        "leadership_experience": 95
+      },
+      "match_explanation": "Emma Dubois is an exceptional match for the Digital Marketing Director position. Her experience in omnichannel marketing, paid advertising, and CRM platforms directly aligns with the job requirements. Her background working with luxury brands is particularly relevant to the company's focus. Her 12+ years of experience exceeds the 10+ years required, and her language skills are excellent, including the preferred French proficiency. Her leadership experience with marketing teams and her strategic approach to campaign development make her ideally suited for this role."
+    },
+    {
+      "job_id": "job_8",
+      "job_title": "Digital Marketing Director",
+      "company": "Horizon Global Media",
+      "resume_id": "resume_6",
+      "candidate_name": "田中 翔太 (Tanaka Shota)",
+      "overall_match_score": 55,
+      "match_category": "Potential Match",
+      "criteria_scores": {
+        "technical_skills": 60,
+        "experience_level": 60,
+        "education": 65,
+        "industry_knowledge": 55,
+        "language_proficiency": 75,
+        "certification": 40,
+        "soft_skills": 80,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Tanaka Shota is a moderate match for the Digital Marketing Director position. While his sales experience provides some transferable skills in client relationships and CRM usage, he lacks specific experience in digital marketing campaigns and paid advertising platforms. His 7 years of experience falls short of the 10+ years required, and he lacks the marketing certifications mentioned in the job description. His language skills meet the basic requirements but not the preferred French proficiency. He would need significant development in digital marketing strategies and tools to be effective in this role."
+    },
+    {
+      "job_id": "job_8",
+      "job_title": "Digital Marketing Director",
+      "company": "Horizon Global Media",
+      "resume_id": "resume_7",
+      "candidate_name": "中村 優香 (Nakamura Yuka)",
+      "overall_match_score": 50,
+      "match_category": "Potential Match",
+      "criteria_scores": {
+        "technical_skills": 50,
+        "experience_level": 55,
+        "education": 60,
+        "industry_knowledge": 45,
+        "language_proficiency": 85,
+        "certification": 40,
+        "soft_skills": 80,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Nakamura Yuka is a potential but weak match for the Digital Marketing Director position. While she has strong people skills and some data analysis experience, she lacks specific expertise in digital marketing campaigns and advertising platforms. Her background in HR provides limited transferable knowledge to marketing leadership. Her 10 years of experience technically meets the minimum requirement, but it's not in a relevant field. Her language skills meet the basic requirements but not the preferred French proficiency. She would need extensive development in digital marketing strategies and tools to be effective in this role."
+    },
+    {
+      "job_id": "job_9",
+      "job_title": "Senior Full-Stack Developer",
+      "company": "TechTrend Innovations Inc.",
+      "resume_id": "resume_2",
+      "candidate_name": "Hiroshi Tanaka",
+      "overall_match_score": 95,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 95,
+        "experience_level": 90,
+        "education": 90,
+        "industry_knowledge": 95,
+        "language_proficiency": 95,
+        "certification": 90,
+        "soft_skills": 90,
+        "leadership_experience": 90
+      },
+      "match_explanation": "Hiroshi Tanaka is an exceptional match for the Senior Full-Stack Developer position. His technical skills in JavaScript, Python, React, and cloud technologies directly align with the job requirements. His experience with microservices, Docker, and AWS is particularly relevant. His 8 years of experience exceeds the 7+ years required, and his Master's degree in Information and Computer Science provides a strong educational foundation. His language skills exceed the requirements, and his leadership experience and mentorship abilities make him ideally suited for leading development teams and mentoring junior developers."
+    },
+    {
+      "job_id": "job_9",
+      "job_title": "Senior Full-Stack Developer",
+      "company": "TechTrend Innovations Inc.",
+      "resume_id": "resume_4",
+      "candidate_name": "佐藤 健 (Sato Ken)",
+      "overall_match_score": 80,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 80,
+        "experience_level": 95,
+        "education": 85,
+        "industry_knowledge": 80,
+        "language_proficiency": 90,
+        "certification": 85,
+        "soft_skills": 85,
+        "leadership_experience": 90
+      },
+      "match_explanation": "Sato Ken is a strong match for the Senior Full-Stack Developer position. His technical skills in Java and Python align with the job requirements, though he has less emphasis on JavaScript and React in his background. His experience with AWS and cloud technologies is directly relevant. His 13 years of experience far exceeds the 7+ years required, and his certifications in AWS are valuable assets. His language skills meet the requirements, and his extensive leadership experience with development teams would be valuable for mentoring junior developers and leading technical initiatives."
+    },
+    {
+      "job_id": "job_9",
+      "job_title": "Senior Full-Stack Developer",
+      "company": "TechTrend Innovations Inc.",
+      "resume_id": "resume_10",
+      "candidate_name": "Aiko Mori",
+      "overall_match_score": 65,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 70,
+        "experience_level": 75,
+        "education": 80,
+        "industry_knowledge": 65,
+        "language_proficiency": 95,
+        "certification": 70,
+        "soft_skills": 80,
+        "leadership_experience": 75
+      },
+      "match_explanation": "Aiko Mori is a moderate match for the Senior Full-Stack Developer position. While she has strong Python and SQL skills, she lacks specific experience with JavaScript frameworks like React and Node.js that are central to the role. Her background in data analysis and business intelligence provides some transferable technical skills, but she would need to develop expertise in web development frameworks and microservices architecture. Her language skills exceed the requirements, and her leadership experience with small teams would be valuable for mentoring junior developers."
+    },
+    {
+      "job_id": "job_10",
+      "job_title": "シニアデータサイエンティスト (Senior Data Scientist)",
+      "company": "株式会社イノベイトAI",
+      "resume_id": "resume_1",
+      "candidate_name": "山田 太郎 (Yamada Tarou)",
+      "overall_match_score": 95,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 95,
+        "experience_level": 95,
+        "education": 90,
+        "industry_knowledge": 95,
+        "language_proficiency": 90,
+        "certification": 90,
+        "soft_skills": 90,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Yamada Tarou is an exceptional match for the Senior Data Scientist position. His technical skills in Python, machine learning frameworks, and data analysis tools directly align with the job requirements. His experience developing and deploying machine learning models is exactly what the role requires. His 8+ years of experience exceeds the 5+ years required, and his Master's degree in Information Science provides a strong educational foundation. His language skills meet the requirements, and his experience mentoring junior data scientists aligns with the leadership aspects of the role."
+    },
+    {
+      "job_id": "job_10",
+      "job_title": "シニアデータサイエンティスト (Senior Data Scientist)",
+      "company": "株式会社イノベイトAI",
+      "resume_id": "resume_8",
+      "candidate_name": "山本 亮太 (Yamamoto Ryota)",
+      "overall_match_score": 65,
+      "match_category": "Good Match",
+      "criteria_scores": {
+        "technical_skills": 70,
+        "experience_level": 75,
+        "education": 75,
+        "industry_knowledge": 65,
+        "language_proficiency": 90,
+        "certification": 70,
+        "soft_skills": 75,
+        "leadership_experience": 70
+      },
+      "match_explanation": "Yamamoto Ryota is a moderate match for the Senior Data Scientist position. While his background in financial analysis provides strong data analysis skills, he lacks specific experience with machine learning models and frameworks required for the role. His experience with Tableau and data visualization is relevant, and his Python skills are a plus, though they appear to be at a basic level. His 11 years of experience exceeds the requirements, and his language skills meet the needs of the role. He would need to develop deeper expertise in machine learning algorithms and frameworks to be fully effective in this position."
+    },
+    {
+      "job_id": "job_10",
+      "job_title": "シニアデータサイエンティスト (Senior Data Scientist)",
+      "company": "株式会社イノベイトAI",
+      "resume_id": "resume_10",
+      "candidate_name": "Aiko Mori",
+      "overall_match_score": 90,
+      "match_category": "Strong Match",
+      "criteria_scores": {
+        "technical_skills": 90,
+        "experience_level": 90,
+        "education": 85,
+        "industry_knowledge": 90,
+        "language_proficiency": 95,
+        "certification": 85,
+        "soft_skills": 85,
+        "leadership_experience": 85
+      },
+      "match_explanation": "Aiko Mori is a strong match for the Senior Data Scientist position. Her technical skills in Python, predictive modeling, and data visualization align well with the job requirements. Her experience building predictive models with Python is particularly relevant. Her 10+ years of experience exceeds the 5+ years required, and her certifications in data analysis are valuable assets. Her language skills exceed the requirements, and her experience leading a team of analysts aligns with the leadership aspects of the role. While her background is more in business intelligence than pure data science, the skills are highly transferable."
+    }
+  ]
+}

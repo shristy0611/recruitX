@@ -1,0 +1,57 @@
+Job Description
+Position: Senior Full-Stack Developer
+Company Overview
+Company Name: TechTrend Innovations Inc.Location: 1-5-6 Roppongi, Minato-ku, Tokyo 106-0032, JapanBusiness: Development of cutting-edge web and cloud-based solutions, specializing in scalable enterprise applications and digital transformation services  
+
+Job Responsibilities
+
+Design, develop, and maintain high-performance web applications using JavaScript, Python, and modern frameworks like React and Django  
+Architect and implement microservices-based systems using Docker and Kubernetes for scalability and reliability  
+Lead the development and deployment of cloud-native applications on AWS, ensuring high availability and security  
+Build and optimize RESTful APIs to support seamless integration with front-end and third-party systems  
+Implement and manage CI/CD pipelines using tools like GitHub Actions or Jenkins to streamline development workflows  
+Conduct code reviews, mentor junior developers, and foster a culture of technical excellence within the team  
+Collaborate with product managers and stakeholders to translate business requirements into technical solutions  
+Stay updated on emerging technologies and propose innovative solutions to enhance product capabilities
+
+
+Qualifications
+Required
+
+7+ years of experience in full-stack software development  
+Proficiency in Python, JavaScript, and TypeScript, with hands-on experience in React, Node.js, and Django  
+Strong expertise in cloud platforms, particularly AWS, and containerization technologies like Docker and Kubernetes  
+Experience with relational and non-relational databases (e.g., PostgreSQL, MongoDB)  
+Proven track record in implementing CI/CD pipelines using tools like GitHub Actions or Jenkins  
+Excellent leadership skills with experience mentoring or managing small development teams  
+Fluent in Japanese and English (TOEFL iBT 100+ or equivalent)
+
+Preferred
+
+AWS Certified Developer – Associate or Solutions Architect certification  
+Experience with Java and Spring Boot for enterprise applications  
+Scrum Master certification (e.g., PSM I) or experience in agile environments  
+Familiarity with automated testing frameworks like Jest or Cypress
+
+
+Ideal Candidate
+
+Passionate about building scalable, user-focused software solutions  
+Adept at solving complex technical challenges with creative and efficient approaches  
+Collaborative team player with strong communication skills and a mentorship mindset  
+Proactive in adopting new tools and technologies to drive innovation
+
+
+Employment Conditions
+
+Work Location: Roppongi, Minato-ku, Tokyo (Hybrid work model, 3 days in-office, 2 days remote)  
+Working Hours: 9:00 AM - 6:00 PM (Flexible hours with core time 10:00 AM - 4:00 PM)  
+Salary: ¥9,000,000 - ¥14,000,000 per year (based on experience and skills)  
+Benefits: Comprehensive health insurance, 120+ annual leave days, professional development allowance, stock options
+
+
+Application Process
+Please submit your CV and cover letter to careers@techtrend.co.jp. Shortlisted candidates will be contacted within 10 business days for an initial interview.Application Deadline: June 30, 2025  
+
+Message from TechTrend Innovations
+At TechTrend Innovations, we empower businesses through technology, creating solutions that shape the future. Join our dynamic team to work on impactful projects, grow your expertise, and make a difference in a collaborative and innovative environment. We look forward to welcoming you aboard!

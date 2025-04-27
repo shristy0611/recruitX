@@ -1,0 +1,45 @@
+履歴書 (Resume)
+基本情報 (Personal Information)
+氏名 (Name): 中村 優香 (Nakamura Yuka)生年月日 (Date of Birth): 1992年11月18日 (November 18, 1992)住所 (Address): 〒160-0023 東京都新宿区西新宿6-12-4 (6-12-4 Nishi-Shinjuku, Shinjuku-ku, Tokyo 160-0023)電話番号 (Phone Number): 090-3456-7890メールアドレス (Email): yuka.nakamura@example.com  
+
+学歴 (Education)
+2015年3月明治大学 商学部 商学科 卒業 (Bachelor of Commerce, Meiji University)  
+
+職歴 (Work Experience)
+2015年4月 - 2018年3月株式会社ビジネスサポート (Business Support Co., Ltd.)人事アシスタント (Human Resources Assistant)  
+
+新卒および中途採用の面接調整、応募者管理、採用イベントの運営を担当  
+社員研修プログラムの企画と実施、年間50名以上の参加者を管理  
+人事データベースの更新と給与計算のサポート（専用ソフト使用）  
+社内コミュニケーションの改善施策として、ニュースレターの作成を主導
+
+2018年4月 - 現在株式会社グロースパートナーズ (Growth Partners Inc.)人事スペシャリスト (Human Resources Specialist)  
+
+採用戦略の立案と実行、年間採用目標（30名）を2年連続達成  
+社員のパフォーマンス評価システムを導入、評価プロセスの効率化を推進  
+データ分析ツール（Excel、Tableau）を用いた人事データの可視化と経営層への報告  
+ダイバーシティ推進プロジェクトのリーダーとして、女性管理職比率を15%向上
+
+
+資格 (Certifications)
+
+2014年12月: 日商簿記検定3級 (Bookkeeping Level 3, Japan Chamber of Commerce)  
+2016年8月: TOEIC 850点 (TOEIC Score: 850)  
+2019年5月: 社会保険労務士試験合格 (Certified Social Insurance Labor Consultant)
+
+
+スキル (Skills)
+
+人事管理: 採用戦略、社員研修、評価システム構築、労務管理  
+データ分析: Excel（ピボットテーブル、VLOOKUP）、Tableau  
+ITスキル: 人事管理システム（SmartHR、Workday）、Microsoft Office  
+言語: 日本語（ネイティブ）、英語（ビジネス会話レベル）
+
+
+自己PR (Self-Introduction)
+人事スペシャリストとして、採用から社員育成、組織の成長支援まで幅広く貢献してきました。データ分析を活用し、客観的な視点で人事施策を立案・実行することで、組織の課題解決に取り組んでいます。チームワークを重視し、社員や経営層との信頼関係を大切にしています。貴社の人材戦略を強化し、持続可能な成長に貢献したいと考えています。
+
+志望動機 (Motivation)
+貴社の「人を大切にする」企業文化と、データ駆動型の人事改革に強く共感しています。これまでの採用やデータ分析の経験を活かし、貴社の組織力強化と社員満足度の向上に寄与したいです。また、貴社のグローバルな視点を反映した人事施策に携わり、自身の専門性をさらに高めたいと考えています。
+
+作成日 (Date of Creation): 2025年4月24日備考 (Notes): 本履歴書の内容は全て事実に基づいています。面接の機会を頂ければ幸いです。

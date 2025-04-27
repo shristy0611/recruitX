@@ -1,0 +1,11 @@
+Shristyverse LLC Proprietary Software License
+
+Copyright (c) 2025 Shristyverse LLC. All rights reserved.
+
+This software and associated documentation files (the "Software") are the exclusive property of Shristyverse LLC. Unauthorized copying, distribution, modification, or use of this Software, in whole or in part, is strictly prohibited.
+
+For licensing, partnership, or commercial inquiries, please contact:
+info@shristyverse.com
+https://shristyverse.com
+
+This project is NOT open source and is intended solely for use as a SaaS product provided by Shristyverse LLC.

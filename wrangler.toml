@@ -1,0 +1,9 @@
+# wrangler.toml
+name = "recruitpro-ai-dev" # Placeholder name for the worker
+compatibility_date = "2024-04-24" # Use a recent date
+
+[[d1_databases]]
+binding = "DB" # The binding name used in the command and expected by the code
+database_name = "recruitpro-ai-local-db" # A descriptive name for the local DB
+database_id = "local-db-id" # A unique ID for the local DB instance
+preview_database_id = "local-db-id" # Use the same for preview 
