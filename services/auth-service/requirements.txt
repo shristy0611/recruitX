@@ -3,4 +3,4 @@ uvicorn==0.22.0
 python-jose==3.3.0
 passlib[bcrypt]==1.7.4
 sentry-sdk==1.11.0
-opentelemetry-instrumentation-fastapi==0.51.0
+opentelemetry-instrumentation-fastapi==0.44b0
