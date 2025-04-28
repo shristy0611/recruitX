@@ -2,4 +2,4 @@
 training/
 node_modules/
 .next/
-.env
+.env.ci_venv/
